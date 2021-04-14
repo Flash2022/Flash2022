@@ -21,7 +21,7 @@ Cheers,
 Tarun Kr Singh 
 
 Contact info 📫:<br />
-- Email: mavenickk@gmail.com<br />
-- Phone no.: 9569443377<br /> 
+- Email: tarunsingh18bcs@iiitkottayam.ac.in<br />
+- Phone no.: 8279846481<br /> 
 
 <!--<img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />-->
