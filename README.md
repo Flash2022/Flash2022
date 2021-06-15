@@ -10,7 +10,7 @@
  I’m currently student of IIIT Kottayam    
  I’m interested for Backend Engineer.  
  Technologies 💬:  
- - React, Express, Passport, SQL, MongoDB, Pusher(Realtime chat), Bootstrap 
+ - React, Express, Passport, SQL, MongoDB, Pusher(Realtime chat), Bootstrap , Material-UI
  - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Git  
  - Java, JavaScript
 
