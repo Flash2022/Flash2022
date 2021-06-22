@@ -11,7 +11,7 @@
  I’m interested for Backend Engineer.  
  Technologies 💬:  
  - React, Express, Passport, SQL, MongoDB, Pusher(Realtime chat), Bootstrap , Material-UI
- - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Git  
+ - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Git, Serverless
  - Java, JavaScript
 
  Also interested in 👀:  
